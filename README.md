@@ -1,4 +1,2 @@
 # Server-Modpack
-## Changelog
-1.3.0:
-removed some glitchy/laggy mods, added 2 qol mods (download soon)
+this is where you download the modpack for my private mc server
